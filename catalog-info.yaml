@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo<hr>
-  description: An <hr>example deployment of a Backstage application.
+  name: demo
+  description: "An <hr>example deployment of a Backstage application."
   annotations:
     github.com/project-slug: backstage-test
 spec:
